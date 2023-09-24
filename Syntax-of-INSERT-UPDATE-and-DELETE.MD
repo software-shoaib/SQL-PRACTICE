@@ -1,8 +1,8 @@
-###Concepts: 
+### Concepts: 
 
-###How does the syntax of an INSERT statement look?
+### How does the syntax of an INSERT statement look?
 
-###INSERT INTO table_name (column1, column2, ... )
+INSERT INTO table_name (column1, column2, ... )
 VALUES (value1, value2, ... );
 
 ### How does the syntax of an UPDATE statement look?
